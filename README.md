@@ -4,8 +4,8 @@
 The **Get Medicine Project** is designed to provide fast and effective access to medications during emergency and disaster situations.
 
 This Flutter application enables users to:
--Request needed medications quickly
--Offer surplus medications to others in need
+- Request needed medications quickly
+- Offer surplus medications to others in need
 
 By connecting people who need medications with those who can provide them, the system ensures that essential supplies reach the right individuals efficiently and reliably.
 
