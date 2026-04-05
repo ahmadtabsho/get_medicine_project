@@ -1,10 +1,21 @@
-# get_medicine_project
+# Get Medicine Project
 
 ## Introduction
+The **Get Medicine Project** is designed to provide fast and effective access to medications during emergency and disaster situations.
 
-The ACİL İLAÇ project is designed to quickly and effectively meet medication needs during disaster situations. This Flutter application allows users to easily share and obtain necessary medications in emergencies.
+This Flutter application enables users to:
+- Request needed medications quickly
+- Offer surplus medications to others in need
 
-Users can request the medications they need through the system, while others can offer their surplus medications to help. This ensures that medications reach the right people quickly and reliably, improving the critical process of medication supply during disaster situations.
+By connecting people who need medications with those who can provide them, the system ensures that essential supplies reach the right individuals efficiently and reliably.
+
+This approach improves coordination and response during critical situations where timely access to medicine can make a significant difference.
+
+## Features
+- Request medications in emergencies
+- Share available medications with others
+- User-friendly and fast interface
+- Designed for crisis and disaster scenarios
 
 ## Presentation
 
